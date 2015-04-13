@@ -1,9 +1,6 @@
 [submodule "src/github.com/awslabs/aws-sdk-go"]
 	path = src/github.com/awslabs/aws-sdk-go
 	url = git@github.com:awslabs/aws-sdk-go.git
-[submodule "src/github.com/docopt/docopt.go"]
-	path = src/github.com/docopt/docopt-go
-	url = git@github.com:docopt/docopt.go.git
 [submodule "src/github.com/smallfish/simpleyaml"]
 	path = src/github.com/smallfish/simpleyaml
 	url = git@github.com:smallfish/simpleyaml.git
