@@ -1,0 +1,18 @@
+[submodule "src/github.com/awslabs/aws-sdk-go"]
+	path = src/github.com/awslabs/aws-sdk-go
+	url = git@github.com:awslabs/aws-sdk-go.git
+[submodule "src/github.com/docopt/docopt.go"]
+	path = src/github.com/docopt/docopt-go
+	url = git@github.com:docopt/docopt.go.git
+[submodule "src/github.com/smallfish/simpleyaml"]
+	path = src/github.com/smallfish/simpleyaml
+	url = git@github.com:smallfish/simpleyaml.git
+[submodule "src/github.com/vaughan0/go-ini"]
+	path = src/github.com/vaughan0/go-ini
+	url = git@github.com:vaughan0/go-ini.git
+[submodule "src/github.com/docopt/docopt-go"]
+	path = src/github.com/docopt/docopt-go
+	url = git@github.com:docopt/docopt.go.git
+[submodule "src/gopkg.in/yaml.v2"]
+	path = src/gopkg.in/yaml.v2
+	url = https://gopkg.in/yaml.v2
